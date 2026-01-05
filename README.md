@@ -97,7 +97,7 @@ To ensure the model isn't learning noise, we used Grad-CAM to visualize attentio
 | Model Strategy | R² Score (Log Space) |
 | --- | --- |
 | **Baseline (Tabular Only)** | ~0.8950 |
-| **Multimodal Fusion (Tabular + Vision)** | **0.9102** |
+| **Multimodal Fusion (Tabular + Vision)** | **0.9112** |
 
 *Adding visual context provided a clear boost in accuracy, particularly for high-variance properties where "curb appeal" matters most.*
 
